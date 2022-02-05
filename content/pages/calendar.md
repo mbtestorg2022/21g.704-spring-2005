@@ -4,59 +4,530 @@ title: Calendar
 uid: e5cb2f3b-8875-bec8-dbe0-deabef515cbf
 ---
 
-| Día # | Tema |
-| --- | --- |
-| 1 | Introducción y presentación del curso |
-| 2 | Discusión  {{< br >}}  {{< br >}}Actividad: Artículos representativos |
-| 3 | Discutir Cuento: _El etnógrafo_ |
-| 4 | Repaso Ser / Estar / Haber / Tener / |
-| 5 | Repaso gramatical  {{< br >}}  {{< br >}}Actividad problemas matrimoniales: ser-estar-haber -tener |
-| 6 | Mesa redonda sobre la familia y la mujer |
-| 7 | Repaso Subjuntivo |
-| 8 | Análisis y discusión de Mujeres al borde... |
-| 9 | Práctica gramatical: imperativos, reflexivos, subjuntivo, etc.  {{< br >}}  {{< br >}}Mandatos / Cartas |
-| 10 | Examen 1 |
-| 11 | _Continuidad de los parques_ |
-| 12 | (horario del lunes) Pretérito e imperfecto |
-| 13 | _Los chicos_ |
-| 14 | Repaso gramatical |
-| 15 | Discutir película: _Diarios de Motocicleta_ |
-| 16 | Voces de inmigrantes / presentaciones y discusión |
-| 17 | Editorial de Vargas Llosa / discusión / debate |
-| 18 | _Cajas de cartón_ |
-| 19 | Poema: _Convocación de palabras_ |
-| 20 | _Un señor muy viejo con unas alas enormes_ |
-| 21 | Práctica gramatical |
-| 22 | Examen 2 |
-| 23 | _Crónica de una muerte anunciada (CMA)_ Capítulo 1: págs. 7-14 |
-| 24 |  {{< br >}}{{< br >}} _CMA_ Cap. 1 (págs. 14-22) Actividad cláusulas con "si" {{< br >}}{{< br >}} Discurso indirecto {{< br >}}{{< br >}}  |
-| 25 |  {{< br >}}{{< br >}} _CMA_ Capítulo 2 {{< br >}}{{< br >}} Actividad: adjetivos descriptivos "Bayardo" {{< br >}}{{< br >}}  |
-| 26 | _CMA_ Cap. 2 (págs. 38-45) |
-| 27 | _CMA_ Cap. 3 |
-| 28 | _CMA_ Cap. 4 (págs. 74- 82) |
-| 29 |  {{< br >}}{{< br >}} Infinitivos y gerundio {{< br >}}{{< br >}} Práctica relativos {{< br >}}{{< br >}}  |
-| 30 | _CMA_ Capítulo 4 (págs. 82-90) |
-| 31 | _CMA_ Capítulo 5 |
-| 32 | _CMA_ Cap. 5 / Discurso indirecto / Repartir roles para actividad juicio |
-| 33 | _CMA_, Actividad Crónica: Juicio Público |
-| 34 | Formar grupos de trabajo para los guiones  {{< br >}}  {{< br >}}Fecha para presentar películas terminadas: la última semana de clase |
-| 35 | Repaso Crónica.... Práctica uso conjunciones y expresiones de Transición |
-| 36 | Examen 3 |
-| 37 | Botero / Política |
-| 38 | La United Fruit Co. |
-| 39 | Feriado |
-| 40 | Feriado (cont.) |
-| 41 | _Presuntamente y Los mejor calzados_ |
-| 42 | _Machuca_ |
-| 43 | _Azúcar amarga_ |
-| 44 | Práctica gramatical: Preposiciones y Por y Para |
-| 45 | _Paradoja_ |
-| 46 | _Paradoja_, Act. 1 |
-| 47 | Actividad: Campaña presidencial; desarrollar un programa y formar partidos |
-| 48 | Elecciones |
-| 49 | Repaso de expresiones |
-| 50 | Examen 4 |
-| 51 | Actividad de redacción en clase |
-| 52 | Películas de estudiantes |
-| 53 | Películas de estudiantes (cont.) |
-| 54 | Entrega de premios / Fiesta
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Día #
+{{< thclose >}}
+{{< thopen >}}
+Tema
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introducción y presentación del curso
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discusión  
+  
+Actividad: Artículos representativos
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Cuento: _El etnógrafo_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso Ser / Estar / Haber / Tener /
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso gramatical  
+  
+Actividad problemas matrimoniales: ser-estar-haber -tener
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Mesa redonda sobre la familia y la mujer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso Subjuntivo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Análisis y discusión de Mujeres al borde...
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Práctica gramatical: imperativos, reflexivos, subjuntivo, etc.  
+  
+Mandatos / Cartas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Examen 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Continuidad de los parques_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+(horario del lunes) Pretérito e imperfecto
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Los chicos_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso gramatical
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir película: _Diarios de Motocicleta_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Voces de inmigrantes / presentaciones y discusión
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Editorial de Vargas Llosa / discusión / debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Cajas de cartón_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Poema: _Convocación de palabras_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Un señor muy viejo con unas alas enormes_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Práctica gramatical
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Examen 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Crónica de una muerte anunciada (CMA)_ Capítulo 1: págs. 7-14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_CMA_ Cap. 1 (págs. 14-22) Actividad cláusulas con "si"
+
+Discurso indirecto
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_CMA_ Capítulo 2
+
+Actividad: adjetivos descriptivos "Bayardo"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_CMA_ Cap. 2 (págs. 38-45)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+_CMA_ Cap. 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+_CMA_ Cap. 4 (págs. 74- 82)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Infinitivos y gerundio
+
+Práctica relativos
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+_CMA_ Capítulo 4 (págs. 82-90)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+_CMA_ Capítulo 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+_CMA_ Cap. 5 / Discurso indirecto / Repartir roles para actividad juicio
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+_CMA_, Actividad Crónica: Juicio Público
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Formar grupos de trabajo para los guiones  
+  
+Fecha para presentar películas terminadas: la última semana de clase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso Crónica.... Práctica uso conjunciones y expresiones de Transición
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Examen 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Botero / Política
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+La United Fruit Co.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Feriado
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Feriado (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+_Presuntamente y Los mejor calzados_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+_Machuca_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+_Azúcar amarga_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+Práctica gramatical: Preposiciones y Por y Para
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+_Paradoja_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+_Paradoja_, Act. 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+Actividad: Campaña presidencial; desarrollar un programa y formar partidos
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Elecciones
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+49
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso de expresiones
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+Examen 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+51
+{{< tdclose >}}
+{{< tdopen >}}
+Actividad de redacción en clase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+52
+{{< tdclose >}}
+{{< tdopen >}}
+Películas de estudiantes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+53
+{{< tdclose >}}
+{{< tdopen >}}
+Películas de estudiantes (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+54
+{{< tdclose >}}
+{{< tdopen >}}
+Entrega de premios / Fiesta
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
